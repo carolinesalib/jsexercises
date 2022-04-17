@@ -1,4 +1,4 @@
-const sorts = require('../sort');
+const sorts = require('../exercises/sort');
 
 test('sorts array with numbers', () => {
   expect(sorts([3,1,2])).toEqual([1,2,3]);

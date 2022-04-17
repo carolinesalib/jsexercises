@@ -1,4 +1,4 @@
-const reverse = require('../reverse');
+const reverse = require('../exercises/reverse');
 
 test('reverses array with numbers', () => {
   expect(reverse([1,2,3,4])).toEqual([4,3,2,1]);
