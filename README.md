@@ -22,7 +22,5 @@ npm run test
 Implement the logic necessary to make all the tests pass.
 
 #### Ideas/TODO:
-* Sum pizza order with combo
 * Sum middle of matrix
 * Sort complex
-* Group and sum array of [string, number]
