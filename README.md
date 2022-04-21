@@ -9,7 +9,7 @@ npm install
 ### Run specific test
 
 ```shell
-npm run test tests/exercise1.test.js
+npm run test tests/sort.test.js
 ```
 
 ### Run all tests
